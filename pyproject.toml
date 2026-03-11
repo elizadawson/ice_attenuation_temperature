@@ -1,7 +1,7 @@
 [project]
 name = "ice-attenuation-temperature"
 version = "0.1.0"
-description = "Add your description here"
+description = "Calculate ice temperature based on attenuation rate and chemistry"
 readme = "README.md"
 requires-python = ">=3.13"
 dependencies = [
